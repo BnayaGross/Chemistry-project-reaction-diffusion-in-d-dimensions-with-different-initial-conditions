@@ -1,1 +1,1 @@
-# Chimestry-project---reaction-diffusion-in-di-dimension-with-different-initial-conditions
+# Chimestry-project---reaction-diffusion-in-d-dimensions-with-different-initial-conditions
